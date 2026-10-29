@@ -1,0 +1,131 @@
+<?php
+
+return [
+    // Navbar
+    'nav_title' => 'การเข้าศึกษาต่อระดับบัณฑิตศึกษา',
+    'nav_subtitle' => 'คณะวิศวกรรมศาสตร์ มหาวิทยาลัยเชียงใหม่',
+    'nav_home' => 'หน้าหลัก',
+    'nav_programs' => 'หลักสูตร',
+    'nav_research' => 'งานวิจัย',
+    'nav_scholarships' => 'ทุน',
+
+    // Hero (Home)
+    'hero_label' => 'คณะวิศวกรรมศาสตร์ มหาวิทยาลัยเชียงใหม่',
+    'hero_title' => 'ระดับบัณฑิตศึกษา',
+
+    // Menu grid (Home)
+    'menu_programs' => 'หลักสูตร',
+    'menu_programs_desc' => 'ปริญญาโท/เอก หลากหลายสาขา',
+    'menu_research' => 'งานวิจัย',
+    'menu_research_desc' => 'กลุ่มวิจัยและผลงานวิจัย/ค้นหางานวิจัย',
+    'menu_scholarships' => 'ทุนการศึกษา',
+    'menu_scholarships_desc' => 'ทุน TA/RA,ทุนคณะ,อื่นๆ',
+    'menu_news' => 'ข่าวประชาสัมพันธ์',
+    'menu_news_desc' => 'ข่าวสาร กิจกรรม และประกาศล่าสุด',
+
+    // News section (Home)
+    'news_read_more' => 'อ่านเพิ่มเติม',
+    'news_not_available' => 'ไม่พบข่าวสาร',
+    'back_to_home' => 'กลับไปหน้าแรก',
+
+    // Programs list page
+    'programs_title' => 'สาขาทั้งหมด',
+    'programs_search_label' => 'ค้นหา',
+    'programs_search_placeholder' => 'ค้นหาชื่อหลักสูตร...',
+    'programs_degree_label' => 'ระดับ',
+    'programs_degree_all' => 'ทั้งหมด',
+    'programs_department_label' => 'ภาควิชา',
+    'programs_department_all' => 'ทั้งหมด',
+    'programs_title_label' => 'สาขา',
+    'programs_title_all' => 'ทั้งหมด',
+    'programs_days_label' => 'วันเรียน',
+    'programs_days_all' => 'ทั้งหมด',
+    'programs_view_details' => 'ดูรายละเอียด',
+    'programs_no_results' => 'ไม่พบหลักสูตรที่ตรงกับเงื่อนไข',
+
+    // Details page
+    'details_contact' => 'ติดต่อ',
+    'details_degree' => 'ระดับการศึกษา',
+    'details_plans' => 'แผนการเรียน',
+    'details_credits' => 'หน่วยกิต',
+    'details_duration' => 'ระยะเวลา',
+    'details_study_days' => 'วันเรียน',
+    'details_fee' => 'ค่าธรรมเนียม',
+    'details_qualifications' => 'คุณสมบัติผู้สมัคร',
+    'details_back' => 'กลับไปหน้ารวม',
+    'details_not_found' => 'ไม่พบข้อมูลหลักสูตร',
+
+    // Scholarships page
+    'scholarships_title' => 'ทุนการศึกษา',
+    'scholarships_page_subtitle' => 'ข้อมูลทุนการศึกษาสำหรับนักศึกษาระดับบัณฑิตศึกษา คณะวิศวกรรมศาสตร์',
+    'scholarships_research' => 'ทุนวิจัย',
+    'scholarships_research_subtitle' => 'สำหรับนักศึกษาระดับบัณฑิตศึกษา',
+    'scholarships_info_label' => 'ข้อมูลเพิ่มเติม',
+    'scholarships_contact' => 'โปรดติดต่อสอบถามข้อมูลเพิ่มเติมที่ งานบริการการศึกษา คณะวิศวกรรมศาสตร์',
+    'scholarships_phone' => '053-944179 ต่อ 116',
+    'scholarships_placeholder_note' => 'ข้อมูลตัวอย่าง รอปรับปรุงเป็นข้อมูลจริง',
+    'scholarships_types_title' => 'ประเภททุนการศึกษา',
+    'scholarships_types_subtitle' => 'ทุนการศึกษาที่เปิดให้นักศึกษาระดับบัณฑิตศึกษาสามารถสมัครได้',
+    'scholarships_eligibility_label' => 'คุณสมบัติผู้สมัคร',
+    'scholarships_steps_title' => 'ขั้นตอนและกำหนดการสมัคร',
+    'scholarships_steps_subtitle' => 'ขั้นตอนการสมัครทุนการศึกษา ตั้งแต่เตรียมเอกสารจนถึงประกาศผล',
+    'scholarships_documents_title' => 'เอกสารดาวน์โหลด',
+    'scholarships_documents_subtitle' => 'แบบฟอร์มและประกาศที่เกี่ยวข้องกับการสมัครทุนการศึกษา',
+    'scholarships_download' => 'ดาวน์โหลด',
+
+    // Research page
+    'research_title' => 'งานวิจัย / วิทยานิพนธ์',
+    'research_coming_soon' => 'อยู่ระหว่างการพัฒนา',
+    'research_coming_soon_desc' => 'ขอบคุณที่รอติดตามข้อมูลในเร็วๆ นี้',
+    'research_subtitle' => 'ค้นหาและสำรวจวิทยานิพนธ์ระดับบัณฑิตศึกษาของคณะวิศวกรรมศาสตร์',
+    'research_total_theses' => 'วิทยานิพนธ์ทั้งหมด',
+    'research_categories' => 'กลุ่มคำสำคัญ',
+    'research_search_placeholder' => 'ค้นหาชื่อเรื่อง (ไทย/อังกฤษ)...',
+    'research_all_categories' => 'ทั้งหมด',
+    'research_all_subcategories' => 'ทั้งหมดในกลุ่มนี้',
+    'research_back_to_categories' => 'ล้างคำสำคัญ',
+    'research_sort_label' => 'เรียงตาม',
+    'research_sort_th_asc' => 'ชื่อไทย (ก-ฮ)',
+    'research_sort_th_desc' => 'ชื่อไทย (ฮ-ก)',
+    'research_sort_en_asc' => 'ชื่ออังกฤษ (A-Z)',
+    'research_sort_en_desc' => 'ชื่ออังกฤษ (Z-A)',
+    'research_no_results' => 'ไม่พบวิทยานิพนธ์ที่ตรงกับเงื่อนไข',
+    'research_results_count' => 'รายการ',
+    'research_view_detail' => 'ดูรายละเอียด',
+    'research_modal_category' => 'คำสำคัญ',
+    'research_modal_title_th' => 'ชื่อเรื่อง (ไทย)',
+    'research_modal_title_en' => 'ชื่อเรื่อง (อังกฤษ)',
+    'research_modal_advisor' => 'อาจารย์ที่ปรึกษา/ผู้รับผิดชอบ',
+    'research_modal_back' => 'กรองตามคำสำคัญนี้',
+    'research_modal_close' => 'ปิด',
+    'research_page_info' => 'หน้า',
+    'research_page_of' => 'จาก',
+    'research_prev' => 'ก่อนหน้า',
+    'research_next' => 'ถัดไป',
+    'research_note_auto' => 'ระบบจัดกลุ่มคำสำคัญ (Keyword 2 ระดับ) อัตโนมัติจากชื่อเรื่องและสาขาวิชา คลิกเลือกคำสำคัญหลักเพื่อดูคำสำคัญย่อยและรายการวิทยานิพนธ์ได้ทันที',
+    'research_theses_unit' => 'เรื่อง',
+    'research_trending_title' => 'คำสำคัญค้นหา (Keywords)',
+    'research_level1_label' => 'ระดับที่ 1 : เลือกหัวข้อหลัก',
+    'research_level2_label' => 'ระดับที่ 2 : เลือกคำสำคัญย่อย',
+
+    // Footer
+    'footer_copyright' => '© คณะวิศวกรรมศาสตร์ มหาวิทยาลัยเชียงใหม่',
+    // 'footer_address' => '999 ถนนหุ่มแดง ตำบลศรีภูมิ อำเภอเมือง จังหวัยเชียงใหม่ 50200 ประเทศไทย',
+    'footer_phone' => 'โทรศัพท์: 053-944179 ต่อ 116',
+    'footer_quick_links' => 'ลิงก์ด่วน',
+    'footer_link_programs' => 'หลักสูตร',
+    'footer_link_scholarships' => 'ทุนการศึกษา',
+    'footer_link_research' => 'งานวิจัย',
+
+    // Home page - Find a Program
+    'home_find_program' => 'ค้นหาหลักสูตร',
+    'home_find_program_desc' => 'เรียนรู้เพิ่มเติมเกี่ยวกับโปรแกรมปริญญาโทและปริญญาเอกของเรา',
+    'home_all_programs' => 'ทั้งหมด',
+    'home_masters' => 'ปริญญาโท',
+    'home_doctorate' => 'ปริญญาเอก',
+
+    // Programs page
+    'programs_find_program' => 'ค้นหาสาขา',
+    'programs_all_major' => 'สาขาทั้งหมด',
+    'programs_reset_filters' => 'ล้างตัวกรอง',
+];

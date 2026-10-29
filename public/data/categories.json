@@ -1,0 +1,611 @@
+[
+    {
+        "key": "AI",
+        "name": "AI",
+        "name_en": "AI",
+        "icon": "bi-stars",
+        "count": 362,
+        "subcategories": [
+            {
+                "key": "Machine Learning",
+                "name": "Machine Learning",
+                "name_en": "Machine Learning",
+                "count": 113
+            },
+            {
+                "key": "พยากรณ์",
+                "name": "พยากรณ์",
+                "name_en": "Forecasting",
+                "count": 87
+            },
+            {
+                "key": "Big Data",
+                "name": "Big Data",
+                "name_en": "Big Data",
+                "count": 76
+            },
+            {
+                "key": "Deep Learning",
+                "name": "Deep Learning",
+                "name_en": "Deep Learning",
+                "count": 76
+            },
+            {
+                "key": "AI",
+                "name": "AI",
+                "name_en": "AI",
+                "count": 74
+            },
+            {
+                "key": "ตรวจจับภาพ",
+                "name": "ตรวจจับภาพ",
+                "name_en": "Image Detection",
+                "count": 32
+            }
+        ]
+    },
+    {
+        "key": "หุ่นยนต์",
+        "name": "หุ่นยนต์",
+        "name_en": "Robotics",
+        "icon": "bi-robot",
+        "count": 61,
+        "subcategories": [
+            {
+                "key": "ระบบอัตโนมัติ",
+                "name": "ระบบอัตโนมัติ",
+                "name_en": "Automation",
+                "count": 17
+            },
+            {
+                "key": "หุ่นยนต์",
+                "name": "หุ่นยนต์",
+                "name_en": "Robot",
+                "count": 15
+            },
+            {
+                "key": "เซนเซอร์",
+                "name": "เซนเซอร์",
+                "name_en": "Sensor",
+                "count": 12
+            },
+            {
+                "key": "IoT",
+                "name": "IoT",
+                "name_en": "IoT",
+                "count": 10
+            },
+            {
+                "key": "โดรน",
+                "name": "โดรน",
+                "name_en": "Drone",
+                "count": 8
+            },
+            {
+                "key": "แขนกล",
+                "name": "แขนกล",
+                "name_en": "Robotic Arm",
+                "count": 4
+            }
+        ]
+    },
+    {
+        "key": "พลังงาน",
+        "name": "พลังงาน",
+        "name_en": "Energy",
+        "icon": "bi-sun",
+        "count": 282,
+        "subcategories": [
+            {
+                "key": "ชีวมวล",
+                "name": "ชีวมวล",
+                "name_en": "Biomass",
+                "count": 60
+            },
+            {
+                "key": "แบตเตอรี่",
+                "name": "แบตเตอรี่",
+                "name_en": "Battery",
+                "count": 54
+            },
+            {
+                "key": "ประหยัดพลังงาน",
+                "name": "ประหยัดพลังงาน",
+                "name_en": "Energy Saving",
+                "count": 44
+            },
+            {
+                "key": "โซลาร์เซลล์",
+                "name": "โซลาร์เซลล์",
+                "name_en": "Solar Cell",
+                "count": 43
+            },
+            {
+                "key": "ไบโอแก๊ส",
+                "name": "ไบโอแก๊ส",
+                "name_en": "Biogas",
+                "count": 39
+            },
+            {
+                "key": "รถยนต์ไฟฟ้า",
+                "name": "รถยนต์ไฟฟ้า",
+                "name_en": "Electric Vehicle",
+                "count": 31
+            },
+            {
+                "key": "พลังงานน้ำ",
+                "name": "พลังงานน้ำ",
+                "name_en": "Hydropower",
+                "count": 24
+            },
+            {
+                "key": "อบแห้ง",
+                "name": "อบแห้ง",
+                "name_en": "Drying",
+                "count": 21
+            },
+            {
+                "key": "ไบโอดีเซล",
+                "name": "ไบโอดีเซล",
+                "name_en": "Biodiesel",
+                "count": 17
+            }
+        ]
+    },
+    {
+        "key": "ไฟฟ้า",
+        "name": "ไฟฟ้า",
+        "name_en": "Electrical",
+        "icon": "bi-lightning-charge",
+        "count": 154,
+        "subcategories": [
+            {
+                "key": "ระบบไฟฟ้า",
+                "name": "ระบบไฟฟ้า",
+                "name_en": "Power System",
+                "count": 72
+            },
+            {
+                "key": "มอเตอร์ไฟฟ้า",
+                "name": "มอเตอร์ไฟฟ้า",
+                "name_en": "Electric Motor",
+                "count": 22
+            },
+            {
+                "key": "แรงดันสูง",
+                "name": "แรงดันสูง",
+                "name_en": "High Voltage",
+                "count": 18
+            },
+            {
+                "key": "สมาร์ทกริด",
+                "name": "สมาร์ทกริด",
+                "name_en": "Smart Grid",
+                "count": 16
+            },
+            {
+                "key": "วงจรไฟฟ้า",
+                "name": "วงจรไฟฟ้า",
+                "name_en": "Circuit",
+                "count": 16
+            },
+            {
+                "key": "อินเวอร์เตอร์",
+                "name": "อินเวอร์เตอร์",
+                "name_en": "Inverter",
+                "count": 15
+            },
+            {
+                "key": "สายอากาศ",
+                "name": "สายอากาศ",
+                "name_en": "Antenna",
+                "count": 15
+            },
+            {
+                "key": "หม้อแปลง",
+                "name": "หม้อแปลง",
+                "name_en": "Transformer",
+                "count": 8
+            }
+        ]
+    },
+    {
+        "key": "ซอฟต์แวร์",
+        "name": "ซอฟต์แวร์",
+        "name_en": "Software",
+        "icon": "bi-laptop",
+        "count": 130,
+        "subcategories": [
+            {
+                "key": "ซอฟต์แวร์",
+                "name": "ซอฟต์แวร์",
+                "name_en": "Software",
+                "count": 78
+            },
+            {
+                "key": "เกม",
+                "name": "เกม",
+                "name_en": "Game & VR",
+                "count": 16
+            },
+            {
+                "key": "แอปพลิเคชัน",
+                "name": "แอปพลิเคชัน",
+                "name_en": "Application",
+                "count": 15
+            },
+            {
+                "key": "เครือข่ายไร้สาย",
+                "name": "เครือข่ายไร้สาย",
+                "name_en": "Wireless Network",
+                "count": 11
+            },
+            {
+                "key": "ฐานข้อมูล",
+                "name": "ฐานข้อมูล",
+                "name_en": "Database",
+                "count": 7
+            },
+            {
+                "key": "ความปลอดภัยไซเบอร์",
+                "name": "ความปลอดภัยไซเบอร์",
+                "name_en": "Cybersecurity",
+                "count": 7
+            }
+        ]
+    },
+    {
+        "key": "สิ่งแวดล้อม",
+        "name": "สิ่งแวดล้อม",
+        "name_en": "Environment",
+        "icon": "bi-tree",
+        "count": 268,
+        "subcategories": [
+            {
+                "key": "คาร์บอนเครดิต",
+                "name": "คาร์บอนเครดิต",
+                "name_en": "Carbon & Climate",
+                "count": 114
+            },
+            {
+                "key": "บำบัดน้ำเสีย",
+                "name": "บำบัดน้ำเสีย",
+                "name_en": "Wastewater",
+                "count": 86
+            },
+            {
+                "key": "ฝุ่น PM2.5",
+                "name": "ฝุ่น PM2.5",
+                "name_en": "PM2.5",
+                "count": 41
+            },
+            {
+                "key": "น้ำประปา",
+                "name": "น้ำประปา",
+                "name_en": "Water Quality",
+                "count": 35
+            },
+            {
+                "key": "ขยะรีไซเคิล",
+                "name": "ขยะรีไซเคิล",
+                "name_en": "Waste & Recycle",
+                "count": 33
+            }
+        ]
+    },
+    {
+        "key": "ก่อสร้าง",
+        "name": "ก่อสร้าง",
+        "name_en": "Construction",
+        "icon": "bi-building",
+        "count": 526,
+        "subcategories": [
+            {
+                "key": "งานก่อสร้าง",
+                "name": "งานก่อสร้าง",
+                "name_en": "Construction",
+                "count": 155
+            },
+            {
+                "key": "คอนกรีต",
+                "name": "คอนกรีต",
+                "name_en": "Concrete",
+                "count": 111
+            },
+            {
+                "key": "ถนน",
+                "name": "ถนน",
+                "name_en": "Road & Asphalt",
+                "count": 77
+            },
+            {
+                "key": "อาคาร",
+                "name": "อาคาร",
+                "name_en": "Building",
+                "count": 67
+            },
+            {
+                "key": "จราจร",
+                "name": "จราจร",
+                "name_en": "Traffic",
+                "count": 66
+            },
+            {
+                "key": "เขื่อน",
+                "name": "เขื่อน",
+                "name_en": "Dam & Irrigation",
+                "count": 39
+            },
+            {
+                "key": "น้ำท่วม",
+                "name": "น้ำท่วม",
+                "name_en": "Flood",
+                "count": 37
+            },
+            {
+                "key": "ดิน",
+                "name": "ดิน",
+                "name_en": "Soil",
+                "count": 30
+            },
+            {
+                "key": "BIM",
+                "name": "BIM",
+                "name_en": "BIM",
+                "count": 30
+            },
+            {
+                "key": "แผ่นดินไหว",
+                "name": "แผ่นดินไหว",
+                "name_en": "Earthquake",
+                "count": 28
+            },
+            {
+                "key": "เสาเข็ม",
+                "name": "เสาเข็ม",
+                "name_en": "Pile",
+                "count": 12
+            }
+        ]
+    },
+    {
+        "key": "โลจิสติกส์",
+        "name": "โลจิสติกส์",
+        "name_en": "Logistics",
+        "icon": "bi-truck",
+        "count": 187,
+        "subcategories": [
+            {
+                "key": "คลังสินค้า",
+                "name": "คลังสินค้า",
+                "name_en": "Warehouse",
+                "count": 67
+            },
+            {
+                "key": "ซัพพลายเชน",
+                "name": "ซัพพลายเชน",
+                "name_en": "Supply Chain",
+                "count": 65
+            },
+            {
+                "key": "ขนส่งสินค้า",
+                "name": "ขนส่งสินค้า",
+                "name_en": "Freight",
+                "count": 45
+            },
+            {
+                "key": "จัดเส้นทาง",
+                "name": "จัดเส้นทาง",
+                "name_en": "Routing",
+                "count": 19
+            }
+        ]
+    },
+    {
+        "key": "โรงงาน",
+        "name": "โรงงาน",
+        "name_en": "Factory",
+        "icon": "bi-diagram-3",
+        "count": 449,
+        "subcategories": [
+            {
+                "key": "จำลองสถานการณ์",
+                "name": "จำลองสถานการณ์",
+                "name_en": "Simulation",
+                "count": 170
+            },
+            {
+                "key": "ลดต้นทุน",
+                "name": "ลดต้นทุน",
+                "name_en": "Cost Saving",
+                "count": 113
+            },
+            {
+                "key": "วางแผนการผลิต",
+                "name": "วางแผนการผลิต",
+                "name_en": "Production Plan",
+                "count": 90
+            },
+            {
+                "key": "ลดของเสีย",
+                "name": "ลดของเสีย",
+                "name_en": "Defect & Quality",
+                "count": 47
+            },
+            {
+                "key": "Lean",
+                "name": "Lean",
+                "name_en": "Lean",
+                "count": 36
+            },
+            {
+                "key": "การบำรุงรักษา",
+                "name": "การบำรุงรักษา",
+                "name_en": "Maintenance",
+                "count": 27
+            }
+        ]
+    },
+    {
+        "key": "ยานยนต์",
+        "name": "ยานยนต์",
+        "name_en": "Automotive",
+        "icon": "bi-car-front",
+        "count": 348,
+        "subcategories": [
+            {
+                "key": "การสั่นสะเทือน",
+                "name": "การสั่นสะเทือน",
+                "name_en": "Vibration & Stress",
+                "count": 87
+            },
+            {
+                "key": "รถยนต์",
+                "name": "รถยนต์",
+                "name_en": "Car & Motorcycle",
+                "count": 71
+            },
+            {
+                "key": "พลาสมา",
+                "name": "พลาสมา",
+                "name_en": "Plasma & Nano",
+                "count": 57
+            },
+            {
+                "key": "ความร้อน",
+                "name": "ความร้อน",
+                "name_en": "Thermal & Cooling",
+                "count": 53
+            },
+            {
+                "key": "วัสดุคอมโพสิต",
+                "name": "วัสดุคอมโพสิต",
+                "name_en": "Composite & Metal",
+                "count": 46
+            },
+            {
+                "key": "แม่พิมพ์",
+                "name": "แม่พิมพ์",
+                "name_en": "Mold & 3D Print",
+                "count": 38
+            },
+            {
+                "key": "การเชื่อม",
+                "name": "การเชื่อม",
+                "name_en": "Welding",
+                "count": 19
+            },
+            {
+                "key": "เครื่องยนต์",
+                "name": "เครื่องยนต์",
+                "name_en": "Engine",
+                "count": 15
+            }
+        ]
+    },
+    {
+        "key": "เกษตร",
+        "name": "เกษตร",
+        "name_en": "Agriculture",
+        "icon": "bi-flower1",
+        "count": 146,
+        "subcategories": [
+            {
+                "key": "ข้าว",
+                "name": "ข้าว",
+                "name_en": "Rice & Corn",
+                "count": 39
+            },
+            {
+                "key": "ผลไม้",
+                "name": "ผลไม้",
+                "name_en": "Fruit & Crop",
+                "count": 38
+            },
+            {
+                "key": "แปรรูปอาหาร",
+                "name": "แปรรูปอาหาร",
+                "name_en": "Food Processing",
+                "count": 36
+            },
+            {
+                "key": "เครื่องจักรเกษตร",
+                "name": "เครื่องจักรเกษตร",
+                "name_en": "Smart Farm",
+                "count": 21
+            },
+            {
+                "key": "กาแฟ",
+                "name": "กาแฟ",
+                "name_en": "Coffee & Tea",
+                "count": 12
+            },
+            {
+                "key": "ลำไย",
+                "name": "ลำไย",
+                "name_en": "Longan",
+                "count": 10
+            }
+        ]
+    },
+    {
+        "key": "การแพทย์",
+        "name": "การแพทย์",
+        "name_en": "Medical",
+        "icon": "bi-heart-pulse",
+        "count": 69,
+        "subcategories": [
+            {
+                "key": "เครื่องมือแพทย์",
+                "name": "เครื่องมือแพทย์",
+                "name_en": "Medical Device",
+                "count": 34
+            },
+            {
+                "key": "ข้อเทียม",
+                "name": "ข้อเทียม",
+                "name_en": "Bone & Prosthesis",
+                "count": 27
+            },
+            {
+                "key": "หัวใจ",
+                "name": "หัวใจ",
+                "name_en": "Heart & Blood",
+                "count": 11
+            }
+        ]
+    },
+    {
+        "key": "เหมืองแร่",
+        "name": "เหมืองแร่",
+        "name_en": "Mining",
+        "icon": "bi-gem",
+        "count": 125,
+        "subcategories": [
+            {
+                "key": "เหมืองแม่เมาะ",
+                "name": "เหมืองแม่เมาะ",
+                "name_en": "Mae Moh & Coal",
+                "count": 93
+            },
+            {
+                "key": "ดินถล่ม",
+                "name": "ดินถล่ม",
+                "name_en": "Landslide & Rock",
+                "count": 27
+            },
+            {
+                "key": "ดาวเทียม",
+                "name": "ดาวเทียม",
+                "name_en": "Satellite & GIS",
+                "count": 11
+            },
+            {
+                "key": "ปิโตรเลียม",
+                "name": "ปิโตรเลียม",
+                "name_en": "Petroleum",
+                "count": 10
+            }
+        ]
+    }
+]

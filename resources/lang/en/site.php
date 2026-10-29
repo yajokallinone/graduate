@@ -1,0 +1,131 @@
+<?php
+
+return [
+    // Navbar
+    'nav_title' => 'Graduate Admissions',
+    'nav_subtitle' => 'Faculty of Engineering, Chiang Mai University',
+    'nav_home' => 'Home',
+    'nav_programs' => 'Programs',
+    'nav_research' => 'Research',
+    'nav_scholarships' => 'Scholarships',
+
+    // Hero (Home)
+    'hero_label' => 'Faculty of Engineering, Chiang Mai University',
+    'hero_title' => 'Graduate Studies',
+
+    // Menu grid (Home)
+    'menu_programs' => 'Programs',
+    'menu_programs_desc' => "Master's & doctoral programs",
+    'menu_research' => 'Research',
+    'menu_research_desc' => 'Research groups and outstanding publications',
+    'menu_scholarships' => 'Scholarships',
+    'menu_scholarships_desc' => 'TA/RA,and faculty grants,etc..',
+    'menu_news' => 'News',
+    'menu_news_desc' => 'Announcements, events and latest updates',
+
+    // News section (Home)
+    'news_read_more' => 'Read More',
+    'news_not_available' => 'No news available',
+    'back_to_home' => 'Back to Home',
+
+    // Programs list page
+    'programs_title' => 'All Programs',
+    'programs_search_label' => 'Search',
+    'programs_search_placeholder' => 'Search program name...',
+    'programs_degree_label' => 'Degree',
+    'programs_degree_all' => 'All',
+    'programs_department_label' => 'Department',
+    'programs_department_all' => 'All',
+    'programs_title_label' => 'Program',
+    'programs_title_all' => 'All',
+    'programs_days_label' => 'Study Days',
+    'programs_days_all' => 'All',
+    'programs_view_details' => 'View Details',
+    'programs_no_results' => 'No programs match your criteria.',
+
+    // Details page
+    'details_contact' => 'Contact',
+    'details_degree' => 'Degree',
+    'details_plans' => 'Study Plans',
+    'details_credits' => 'Credits',
+    'details_duration' => 'Duration',
+    'details_study_days' => 'Study Days',
+    'details_fee' => 'Fee',
+    'details_qualifications' => 'Applicant Qualifications',
+    'details_back' => 'Back to All Programs',
+    'details_not_found' => 'Program not found.',
+
+    // Scholarships page
+    'scholarships_title' => 'Scholarships',
+    'scholarships_page_subtitle' => 'Scholarship information for graduate students at the Faculty of Engineering',
+    'scholarships_research' => 'Research Scholarship',
+    'scholarships_research_subtitle' => 'For Graduate Students',
+    'scholarships_info_label' => 'Further Information',
+    'scholarships_contact' => 'For further information, please contact the Educational Services Office, Faculty of Engineering',
+    'scholarships_phone' => '053-944179 ext. 116',
+    'scholarships_placeholder_note' => 'Sample content — to be replaced with actual information',
+    'scholarships_types_title' => 'Scholarship Types',
+    'scholarships_types_subtitle' => 'Scholarships available for graduate students to apply for',
+    'scholarships_eligibility_label' => 'Eligibility',
+    'scholarships_steps_title' => 'Application Steps & Timeline',
+    'scholarships_steps_subtitle' => 'The scholarship application process, from preparing documents to the results announcement',
+    'scholarships_documents_title' => 'Documents',
+    'scholarships_documents_subtitle' => 'Forms and announcements related to scholarship applications',
+    'scholarships_download' => 'Download',
+
+    // Research page
+    'research_title' => 'Research & Theses',
+    'research_coming_soon' => 'Under Development',
+    'research_coming_soon_desc' => 'Thank you for waiting for this information to be available soon.',
+    'research_subtitle' => 'Search and explore graduate theses from the Faculty of Engineering',
+    'research_total_theses' => 'Total Theses',
+    'research_categories' => 'Keyword Groups',
+    'research_search_placeholder' => 'Search title (Thai/English)...',
+    'research_all_categories' => 'All',
+    'research_all_subcategories' => 'All in this group',
+    'research_back_to_categories' => 'Clear keyword',
+    'research_sort_label' => 'Sort by',
+    'research_sort_th_asc' => 'Thai Title (A-Z)',
+    'research_sort_th_desc' => 'Thai Title (Z-A)',
+    'research_sort_en_asc' => 'English Title (A-Z)',
+    'research_sort_en_desc' => 'English Title (Z-A)',
+    'research_no_results' => 'No theses match your criteria.',
+    'research_results_count' => 'items',
+    'research_view_detail' => 'View Details',
+    'research_modal_category' => 'Keyword',
+    'research_modal_title_th' => 'Title (Thai)',
+    'research_modal_title_en' => 'Title (English)',
+    'research_modal_advisor' => 'Advisor(s)',
+    'research_modal_back' => 'Filter by this keyword',
+    'research_modal_close' => 'Close',
+    'research_page_info' => 'Page',
+    'research_page_of' => 'of',
+    'research_prev' => 'Previous',
+    'research_next' => 'Next',
+    'research_note_auto' => 'Keywords (2 levels) are auto-generated from thesis titles and majors. Click a Level 1 keyword to view Level 2 sub-keywords and matching theses immediately.',
+    'research_theses_unit' => 'theses',
+    'research_trending_title' => 'Search Keywords',
+    'research_level1_label' => 'Level 1 : Main Keyword',
+    'research_level2_label' => 'Level 2 : Sub-Keyword',
+
+    // Footer
+    'footer_copyright' => '© Faculty of Engineering, Chiang Mai University',
+    'footer_address' => '999 Huay Kaew Road, Si Phumi Sub-district, Mueang District, Chiang Mai 50200, Thailand',
+    'footer_phone' => 'Tel: 053-944179 ext. 116',
+    'footer_quick_links' => 'Quick Links',
+    'footer_link_programs' => 'Programs',
+    'footer_link_scholarships' => 'Scholarships',
+    'footer_link_research' => 'Research',
+
+    // Home page - Find a Program
+    'home_find_program' => 'Find a Program',
+    'home_find_program_desc' => 'Learn more about our Master\'s and Doctoral programs',
+    'home_all_programs' => 'All',
+    'home_masters' => 'Master Degree',
+    'home_doctorate' => 'Doctorate Degree',
+
+    // Programs page
+    'programs_find_program' => 'Find a Program',
+    'programs_all_major' => 'All Programs',
+    'programs_reset_filters' => 'Reset Filters',
+];
